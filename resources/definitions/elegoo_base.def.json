@@ -20,7 +20,7 @@
         "has_machine_quality": true,
         "has_materials": true,
         "has_variants": true,
-        "machine_extruder_trains": { "0": "elegoo_extruder_0" },
+        "machine_extruder_trains": { "0": "elegoo_extruder_0", "1": "elegoo_extruder_0", "2": "elegoo_extruder_0", "3": "elegoo_extruder_0" },
         "platform_offset": [
             -2.2,
             14.5,
